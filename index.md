@@ -14,6 +14,8 @@ In addition, you can:
 - Search for records using specific criteria
 - Export your transactions to a CSV file
 
+---
+
 # Privacy Policy
 
 ## Introduction
@@ -34,6 +36,8 @@ If you have any questions or comments about this Policy, please contact us at Va
 ## Changes to This Policy
 
 The Developer may modify this Policy at any time. You will be notified of any material changes to this Policy by email or through a notice posted on the App. If you do not agree to the modified Policy, you must stop using the App.
+
+---
 
 # Terms of Service
 
