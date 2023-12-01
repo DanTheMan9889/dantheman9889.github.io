@@ -147,3 +147,6 @@ The Developer may modify these Terms at any time. You will be notified of any ma
 If you have any questions about these Terms, please contact me at VanDanVisions@gmail.com
 
 ---
+
+[Privacy Policy](privacypolicy.md)
+[Terms of Service](termsofservice.md)
