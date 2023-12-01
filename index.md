@@ -136,7 +136,7 @@ You retain ownership of any User-generated Content produced by the App.
 
 **Privacy Policy**
 
-Your privacy is important to us. Please see our Privacy Policy for information about how we collect, use, and share your personal information.
+Your privacy is important to me. Please see our Privacy Policy for information about how we collect, use, and share your personal information.
 
 **Changes to the Terms**
 
@@ -144,6 +144,6 @@ The Developer may modify these Terms at any time. You will be notified of any ma
 
 **Contact Information**
 
-If you have any questions about these Terms, please contact us at VanDanVisions@gmail.com
+If you have any questions about these Terms, please contact me at VanDanVisions@gmail.com
 
 ---
