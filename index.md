@@ -37,5 +37,5 @@ The app supports an ever expanding, enviable list of options. With Salva you can
 
 ---
 
-# [Privacy Policy](privacypolicy.md)
-# [Terms of Service](termsofservice.md)
+## [Privacy Policy](privacypolicy.md)
+## [Terms of Service](termsofservice.md)
