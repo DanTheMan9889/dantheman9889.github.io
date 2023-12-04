@@ -1,5 +1,6 @@
 # Salva
 ![Shortcut Icon](icon3.png?raw=true)
+
 Welcome to Salva, our privacy focused, minimalist, intuitive and lightweight transaction tracking companion.
 
 In today's fast-paced world, staying on top of your finances can be a daunting task. Juggling multiple bank accounts, credit cards, and cash transactions can leave you feeling overwhelmed and disorganized. Introducing Salva, the minimalist, intuitive, and lightweight transaction tracking app designed to bring clarity and simplicity to your financial life.
