@@ -1,5 +1,5 @@
 # Salva
-![Shortcut Icon](icon3.png?raw=true)
+![Shortcut Icon](icon3_gc.png?raw=true)
 
 Welcome to Salva, our privacy focused, minimalist, intuitive and lightweight transaction tracking companion.
 
