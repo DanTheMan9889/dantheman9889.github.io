@@ -25,16 +25,16 @@ Salva is a lightweight app that won't weigh down your device or drain your batte
 
 ## Extensive Functionality
 
-The app supports an ever expanding, enviable list of options. With Salva you can:
+The app supports an ever expanding list of capabilities. With Salva you can:
 - Save, edit and remove transactions with ease
 - Use entities and categories to classify and group your transactions
 - Modify or remove your existing entities and categories
-- Visualize your transactions plotted on a graph or organized on a calendar
+- Visualize your transactions on a graph or organized on a calendar
 - Monitor consumption rate, savings rate, and many other useful metrics
 - Filter and sort through your transaction history
 - Search for records using specific criteria
 - Export your transactions to a CSV file
-- Save a backup of your transactions to your local storage
+- Backup your transactions to your local storage or to your Google Drive
 - Restore your transactions from a previously generated backup file
 
 ---
