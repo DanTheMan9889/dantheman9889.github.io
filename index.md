@@ -34,7 +34,7 @@ The app supports an ever expanding list of capabilities. With Salva you can:
 - Filter and sort through your transaction history
 - Search for records using specific criteria
 - Export your transactions to a CSV file
-- Backup your transactions to your local storage or to your Google Drive
+- Backup your transactions to your local storage or Google Drive
 - Restore your transactions from a previously generated backup file
 
 ---
